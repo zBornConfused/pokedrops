@@ -1,19 +1,467 @@
-*.log
-wp-config.php
-wp-content/advanced-cache.php
-wp-content/backup-db/
-wp-content/backups/
-wp-content/blogs.dir/
-wp-content/cache/
-wp-content/upgrade/
-wp-content/uploads/
-wp-content/mu-plugins/
-wp-content/wp-cache-config.php
-wp-content/plugins/hello.php
-
-/.htaccess
-/license.txt
-/readme.html
-/sitemap.xml
-/sitemap.xml.gz
-
+[18:49:45] [main/INFO]: Mohist Starting...
+[18:49:45] [main/INFO]: Loading libraries, please wait...
+[18:49:45] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[18:49:45] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[18:49:45] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[18:49:45] [main/INFO]: Forge Mod Loader version 14.23.5.2838 for Minecraft 1.12.2 loading
+[18:49:45] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_211, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_211
+[18:49:45] [main/WARN]: The coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin) is not signed!
+[18:49:45] [main/WARN]: The coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin) is not signed!
+[18:49:45] [main/WARN]: The coremod CorePlugin (red.mohist.CorePlugin) is not signed!
+[18:49:45] [main/INFO]: Searching C:\Users\BornConfused\Desktop\Nova pasta\.\mods for mods
+[18:49:45] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:49:45] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[18:49:45] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:49:45] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:49:45] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:49:48] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:49:48] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:49:48] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[18:49:48] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[18:49:48] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[18:49:49] [main/INFO]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[18:49:53] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[18:49:53] [Server thread/INFO]: MinecraftForge v14.23.5.2838 Initialized
+[18:49:53] [Server thread/INFO]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[18:49:54] [Server thread/INFO]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[18:49:54] [Server thread/INFO]: Replaced 1227 ore ingredients
+[18:49:54] [Server thread/INFO]: Searching C:\Users\BornConfused\Desktop\Nova pasta\.\mods for mods
+[18:49:56] [Server thread/INFO]: Forge Mod Loader has identified 5 mods to load
+[18:49:56] [Server thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, pixelmon] at CLIENT
+[18:49:56] [Server thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, pixelmon] at SERVER
+[18:49:56] [Server thread/INFO]: Processing ObjectHolder annotations
+[18:49:56] [Server thread/INFO]: Found 1168 ObjectHolder annotations
+[18:49:56] [Server thread/INFO]: Identifying ItemStackHolder annotations
+[18:49:57] [Server thread/INFO]: Found 0 ItemStackHolder annotations
+[18:49:57] [Server thread/INFO]: Configured a dormant chunk cache size of 0
+[18:49:57] [Server thread/INFO]: Loading Pixelmon version 7.0.6
+[18:49:58] [Server thread/INFO]: Checking for migrations..
+[18:49:58] [Server thread/INFO]: Loading Advancements
+[18:50:00] [Server thread/INFO]: Applying holder lookups
+[18:50:00] [Server thread/INFO]: Holder lookups applied
+[18:50:00] [Server thread/INFO]: Loading TM/HMs.
+[18:50:00] [Server thread/INFO]: Applying holder lookups
+[18:50:00] [Server thread/INFO]: Holder lookups applied
+[18:50:01] [Server thread/INFO]: Applying holder lookups
+[18:50:01] [Server thread/INFO]: Holder lookups applied
+[18:50:01] [Server thread/INFO]: Applying holder lookups
+[18:50:01] [Server thread/INFO]: Holder lookups applied
+[18:50:01] [Server thread/INFO]: Injecting itemstacks
+[18:50:01] [Server thread/INFO]: Itemstack injection complete
+[18:50:01] [Server thread/INFO]: Loading properties
+[18:50:01] [Server thread/INFO]: Default game type: SURVIVAL
+[18:50:01] [Server thread/INFO]: This server is running Mohist version 1.2-5a1e180 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[18:50:01] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:50:01] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:50:01] [Server thread/INFO]: Generating keypair
+[18:50:01] [Server thread/INFO]: Starting Minecraft server on 192.168.0.106:25565
+[18:50:01] [Server thread/INFO]: Using default channel type
+[18:50:02] [Server thread/INFO]: Applying holder lookups
+[18:50:02] [Server thread/INFO]: Holder lookups applied
+[18:50:02] [Server thread/INFO]: Registering shop items.
+[18:50:02] [Server thread/INFO]: Registering NPCs.
+[18:50:02] [Server thread/INFO]: Registered NPC trades.
+[18:50:02] [Server thread/INFO]: Registering structures.
+[18:50:06] [Server thread/INFO]: Registering drops.
+[18:50:06] [Server thread/INFO]: Registering Pokémon drops.
+[18:50:06] [Server thread/WARN]: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Expected name at line 1666 column 49 path $[155].optdrop1data
+[18:50:06] [Server thread/WARN]: 	at com.google.gson.internal.Streams.parse(Streams.java:60)
+[18:50:06] [Server thread/WARN]: 	at com.google.gson.JsonParser.parse(JsonParser.java:84)
+[18:50:06] [Server thread/WARN]: 	at com.google.gson.JsonParser.parse(JsonParser.java:59)
+[18:50:06] [Server thread/WARN]: 	at com.pixelmonmod.pixelmon.entities.npcs.registry.DropItemRegistry.registerPokemonDrops(DropItemRegistry.java:112)
+[18:50:06] [Server thread/WARN]: 	at com.pixelmonmod.pixelmon.entities.npcs.registry.DropItemRegistry.registerDropItems(DropItemRegistry.java:88)
+[18:50:06] [Server thread/WARN]: 	at com.pixelmonmod.pixelmon.CommonProxy.init(CommonProxy.java:106)
+[18:50:06] [Server thread/WARN]: 	at com.pixelmonmod.pixelmon.Pixelmon.init(Pixelmon.java:156)
+[18:50:06] [Server thread/WARN]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18:50:06] [Server thread/WARN]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[18:50:06] [Server thread/WARN]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[18:50:06] [Server thread/WARN]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[18:50:06] [Server thread/WARN]: 	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:637)
+[18:50:06] [Server thread/WARN]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18:50:06] [Server thread/WARN]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[18:50:06] [Server thread/WARN]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[18:50:06] [Server thread/WARN]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[18:50:06] [Server thread/WARN]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[18:50:06] [Server thread/WARN]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[18:50:06] [Server thread/WARN]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[18:50:06] [Server thread/WARN]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[18:50:06] [Server thread/WARN]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[18:50:06] [Server thread/WARN]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[18:50:06] [Server thread/WARN]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[18:50:06] [Server thread/WARN]: 	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)
+[18:50:06] [Server thread/WARN]: 	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)
+[18:50:06] [Server thread/WARN]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18:50:06] [Server thread/WARN]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[18:50:06] [Server thread/WARN]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[18:50:06] [Server thread/WARN]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[18:50:06] [Server thread/WARN]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[18:50:06] [Server thread/WARN]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[18:50:06] [Server thread/WARN]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[18:50:06] [Server thread/WARN]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[18:50:06] [Server thread/WARN]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[18:50:06] [Server thread/WARN]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[18:50:06] [Server thread/WARN]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[18:50:06] [Server thread/WARN]: 	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136)
+[18:50:06] [Server thread/WARN]: 	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:745)
+[18:50:06] [Server thread/WARN]: 	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:110)
+[18:50:06] [Server thread/WARN]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:339)
+[18:50:06] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:257)
+[18:50:06] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:599)
+[18:50:06] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[18:50:06] [Server thread/WARN]: Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 1666 column 49 path $[155].optdrop1data
+[18:50:06] [Server thread/WARN]: 	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1559)
+[18:50:06] [Server thread/WARN]: 	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:513)
+[18:50:06] [Server thread/WARN]: 	at com.google.gson.stream.JsonReader.hasNext(JsonReader.java:414)
+[18:50:06] [Server thread/WARN]: 	at com.google.gson.internal.bind.TypeAdapters$29.read(TypeAdapters.java:738)
+[18:50:06] [Server thread/WARN]: 	at com.google.gson.internal.bind.TypeAdapters$29.read(TypeAdapters.java:731)
+[18:50:06] [Server thread/WARN]: 	at com.google.gson.internal.bind.TypeAdapters$29.read(TypeAdapters.java:714)
+[18:50:06] [Server thread/WARN]: 	at com.google.gson.internal.Streams.parse(Streams.java:48)
+[18:50:06] [Server thread/WARN]: 	... 42 more
+[18:50:06] [Server thread/INFO]: Registering battle rules.
+[18:50:13] [Server thread/INFO]: Injecting itemstacks
+[18:50:13] [Server thread/INFO]: Itemstack injection complete
+[18:50:13] [Server thread/INFO]: Registering spawn sets.
+[18:50:14] [Server thread/INFO]: Forge Mod Loader has successfully loaded 5 mods
+[18:50:14] [Server thread/INFO]: Preparing level "world"
+[18:50:15] [Server thread/INFO]: Injecting existing registry data into this server instance
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:honey
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:hellbark_stairs
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:jacaranda_fence_gate
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:sacred_oak_fence_gate
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:cherry_fence_gate
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:flesh
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:willow_fence_gate
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:dirt
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:mangrove_fence
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:magic_door_block
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:pine_door_block
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:umbran_stairs
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:poison
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:plant_1
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:plant_0
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:crystal
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:white_sandstone
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:palm_fence
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:double_wood_slab_1
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:double_wood_slab_0
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:dried_sand
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:magic_stairs
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:sacred_oak_stairs
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:magic_fence
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:farmland_0
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:farmland_1
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:planks_0
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:flower_1
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:hard_ice
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:flower_0
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:magic_fence_gate
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:mangrove_stairs
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:mud_brick_stairs
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:mahogany_door_block
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:cherry_door_block
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:redwood_fence_gate
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:willow_door_block
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:fir_fence_gate
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:sand
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:gem_block
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:ethereal_fence_gate
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:double_other_slab
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:waterlily
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:fir_stairs
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:ebony_door_block
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:redwood_fence
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:hot_spring_water
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:jacaranda_stairs
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:sacred_oak_fence
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:ethereal_fence
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:gem_ore
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:other_slab
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:mangrove_fence_gate
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:mahogany_fence
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:honey_block
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:mahogany_stairs
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:fir_fence
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:biome_block
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:ivy
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:palm_fence_gate
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:ethereal_stairs
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:umbran_fence_gate
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:leaves_0
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:hive
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:seaweed
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:eucalyptus_fence_gate
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:bamboo_thatching
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:leaves_5
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:leaves_6
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:leaves_3
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:hellbark_fence
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:leaves_4
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:leaves_1
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:leaves_2
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:umbran_fence
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:white_sand
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:redwood_door_block
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:willow_stairs
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:mangrove_door_block
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:eucalyptus_fence
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:terrarium
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:ebony_fence_gate
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:grass_path
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:hellbark_door_block
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:log_4
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:log_3
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:mud_brick_block
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:log_2
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:log_1
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:hellbark_fence_gate
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:cherry_stairs
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:white_sandstone_stairs
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:eucalyptus_stairs
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:log_0
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:pine_fence
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:grass
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:ebony_fence
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:mud
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:willow_vine
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:fir_door_block
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:umbran_door_block
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:mahogany_fence_gate
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:palm_stairs
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:coral
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:pine_stairs
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:blood
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:pine_fence_gate
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:sacred_oak_door_block
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:ash_block
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:jacaranda_door_block
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:bamboo
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:willow_fence
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:mushroom
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:eucalyptus_door_block
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:ebony_stairs
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:sapling_1
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:sapling_2
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:sapling_0
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:blue_fire
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:double_plant
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:ethereal_door_block
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:bramble_plant
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:jacaranda_fence
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:redwood_stairs
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:wood_slab_0
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:cherry_fence
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:wood_slab_1
+[18:50:15] [Server thread/INFO]: Registry Block: Found a missing id from the world biomesoplenty:palm_door_block
+[18:50:15] [Server thread/INFO]: Applying holder lookups
+[18:50:15] [Server thread/INFO]: Holder lookups applied
+[18:50:16] [Server thread/INFO]: -------- World Settings For [world] --------
+[18:50:16] [Server thread/INFO]: Experience Merge Radius: 3
+[18:50:16] [Server thread/INFO]: Entity Tracking Range: players 48 / animals 48 / monsters 48 / misc 32 / other 64
+[18:50:16] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:50:16] [Server thread/INFO]: Custom Map Seeds: Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[18:50:16] [Server thread/INFO]: Max TNT Explosions: 100
+[18:50:16] [Server thread/INFO]: Tile Max Tick Time: 50 ms Entity max Tick Time: 50 ms
+[18:50:16] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:50:16] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:50:16] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:50:16] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:50:16] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:50:16] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:50:16] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:50:16] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:50:16] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:50:16] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:50:16] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[18:50:16] [Server thread/INFO]: Structure Info Saving: true
+[18:50:16] [Server thread/INFO]: Mob Spawn Range: 4
+[18:50:17] [Server thread/INFO]: Entity Activation Range: animals 32 / monsters 32 / misc 16 / tick-inactive-villagers true
+[18:50:17] [Server thread/INFO]: Random Lighting Updates: false
+[18:50:17] [Server thread/INFO]: Item Despawn Rate: 6.000
+[18:50:17] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:50:17] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:50:17] [Server thread/INFO]: View Distance: 10
+[18:50:17] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[18:50:17] [Server thread/INFO]: Item Merge Radius: 2,5
+[18:50:17] [Server thread/INFO]: Loading dimension 0 (world)
+[18:50:17] [Server thread/INFO]: -------- World Settings For [DIM-1] --------
+[18:50:17] [Server thread/INFO]: Experience Merge Radius: 3
+[18:50:17] [Server thread/INFO]: Entity Tracking Range: players 48 / animals 48 / monsters 48 / misc 32 / other 64
+[18:50:17] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:50:17] [Server thread/INFO]: Custom Map Seeds: Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[18:50:17] [Server thread/INFO]: Max TNT Explosions: 100
+[18:50:17] [Server thread/INFO]: Tile Max Tick Time: 50 ms Entity max Tick Time: 50 ms
+[18:50:17] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:50:17] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:50:17] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:50:17] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:50:17] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:50:17] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:50:17] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:50:17] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:50:17] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:50:17] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:50:17] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[18:50:17] [Server thread/INFO]: Structure Info Saving: true
+[18:50:17] [Server thread/INFO]: Mob Spawn Range: 4
+[18:50:17] [Server thread/INFO]: Entity Activation Range: animals 32 / monsters 32 / misc 16 / tick-inactive-villagers true
+[18:50:17] [Server thread/INFO]: Random Lighting Updates: false
+[18:50:17] [Server thread/INFO]: Item Despawn Rate: 6.000
+[18:50:17] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:50:17] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:50:17] [Server thread/INFO]: View Distance: 10
+[18:50:17] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[18:50:17] [Server thread/INFO]: Item Merge Radius: 2,5
+[18:50:17] [Server thread/INFO]: Loading dimension -1 (DIM-1)
+[18:50:17] [Server thread/INFO]: -------- World Settings For [DIM1] --------
+[18:50:17] [Server thread/INFO]: Experience Merge Radius: 3
+[18:50:17] [Server thread/INFO]: Entity Tracking Range: players 48 / animals 48 / monsters 48 / misc 32 / other 64
+[18:50:17] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:50:17] [Server thread/INFO]: Custom Map Seeds: Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[18:50:17] [Server thread/INFO]: Max TNT Explosions: 100
+[18:50:17] [Server thread/INFO]: Tile Max Tick Time: 50 ms Entity max Tick Time: 50 ms
+[18:50:17] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:50:17] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:50:17] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:50:17] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:50:17] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:50:17] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:50:17] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:50:17] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:50:17] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:50:17] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:50:17] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[18:50:17] [Server thread/INFO]: Structure Info Saving: true
+[18:50:17] [Server thread/INFO]: Mob Spawn Range: 4
+[18:50:17] [Server thread/INFO]: Entity Activation Range: animals 32 / monsters 32 / misc 16 / tick-inactive-villagers true
+[18:50:17] [Server thread/INFO]: Random Lighting Updates: false
+[18:50:17] [Server thread/INFO]: Item Despawn Rate: 6.000
+[18:50:17] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:50:17] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:50:17] [Server thread/INFO]: View Distance: 10
+[18:50:17] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[18:50:17] [Server thread/INFO]: Item Merge Radius: 2,5
+[18:50:17] [Server thread/INFO]: Loading dimension 1 (DIM1)
+[18:50:18] [Server thread/INFO]: -------- World Settings For [DIM72] --------
+[18:50:18] [Server thread/INFO]: Experience Merge Radius: 3
+[18:50:18] [Server thread/INFO]: Entity Tracking Range: players 48 / animals 48 / monsters 48 / misc 32 / other 64
+[18:50:18] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:50:18] [Server thread/INFO]: Custom Map Seeds: Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[18:50:18] [Server thread/INFO]: Max TNT Explosions: 100
+[18:50:18] [Server thread/INFO]: Tile Max Tick Time: 50 ms Entity max Tick Time: 50 ms
+[18:50:18] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:50:18] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:50:18] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:50:18] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:50:18] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:50:18] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:50:18] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:50:18] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:50:18] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:50:18] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:50:18] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[18:50:18] [Server thread/INFO]: Structure Info Saving: true
+[18:50:18] [Server thread/INFO]: Mob Spawn Range: 4
+[18:50:18] [Server thread/INFO]: Entity Activation Range: animals 32 / monsters 32 / misc 16 / tick-inactive-villagers true
+[18:50:18] [Server thread/INFO]: Random Lighting Updates: false
+[18:50:18] [Server thread/INFO]: Item Despawn Rate: 6.000
+[18:50:18] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:50:18] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:50:18] [Server thread/INFO]: View Distance: 10
+[18:50:18] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[18:50:18] [Server thread/INFO]: Item Merge Radius: 2,5
+[18:50:18] [Server thread/INFO]: Loading dimension 72 (DIM72)
+[18:50:18] [Server thread/INFO]: Preparing start region for level 0 (Seed:27594263 )
+[18:50:18] [Server thread/WARN]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.pixelmonmod.pixelmon.listener.EntityPlayerExtension
+[18:50:18] [Server thread/WARN]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.pixelmonmod.pixelmon.listener.EntityPlayerExtension
+[18:50:19] [Server thread/INFO]: Preparing spawn area: 39%
+[18:50:19] [Server thread/INFO]: Preparing start region for level 1 (Seed:4759690608568986618 )
+[18:50:20] [Server thread/INFO]: Preparing start region for level 2 (Seed:4759690608568986618 )
+[18:50:20] [Server thread/INFO]: Preparing start region for level 3 (Seed:-4759690608568986618 )
+[18:50:21] [Server thread/INFO]: Preparing spawn area: 70%
+[18:50:21] [Server thread/INFO]: Done (36,168s)! For help, type "help" or "?"
+[18:50:21] [Server thread/INFO]: Starting Minecraft server on 192.168.0.106:25565
+[18:50:33] [User Authenticator #1/INFO]: UUID of player Reversetron is c71e5140-7190-3135-9d76-16583bb512de
+[18:50:34] [Netty Server IO #3/INFO]: Client protocol version 2
+[18:50:34] [Netty Server IO #3/INFO]: Client attempting to join with 8 mods
+[18:50:37] [Server thread/INFO]: [Server thread] Server side modded connection established
+[18:50:37] [Server thread/INFO]: Reversetron[/192.168.0.106:57564] logged in with entity id 702 at ([world]-598.1401778454111, 71.0, 652.6876409421911)
+[18:50:51] [Server thread/INFO]: Caught error in battle. Continuing...
+[18:50:51] [Server thread/WARN]: java.lang.NullPointerException
+[18:50:51] [Server thread/WARN]: 	at com.pixelmonmod.pixelmon.entities.npcs.registry.DropItemRegistry.getDropsForPokemon(DropItemRegistry.java:260)
+[18:50:51] [Server thread/WARN]: 	at com.pixelmonmod.pixelmon.entities.pixelmon.drops.DropItemHelper.dropNormalItems(DropItemHelper.java:201)
+[18:50:51] [Server thread/WARN]: 	at com.pixelmonmod.pixelmon.entities.pixelmon.Entity8HoldsItems.func_70645_a(Entity8HoldsItems.java:65)
+[18:50:51] [Server thread/WARN]: 	at com.pixelmonmod.pixelmon.entities.pixelmon.EntityPixelmon.func_70645_a(EntityPixelmon.java:164)
+[18:50:51] [Server thread/WARN]: 	at com.pixelmonmod.pixelmon.entities.pixelmon.Entity5Battle.func_70097_a(Entity5Battle.java:162)
+[18:50:51] [Server thread/WARN]: 	at com.pixelmonmod.pixelmon.battles.controller.participants.PixelmonWrapper.doBattleDamage(PixelmonWrapper.java:2155)
+[18:50:51] [Server thread/WARN]: 	at com.pixelmonmod.pixelmon.battles.attacks.Attack.executeAttackEffects(Attack.java:541)
+[18:50:51] [Server thread/WARN]: 	at com.pixelmonmod.pixelmon.battles.attacks.Attack.use(Attack.java:448)
+[18:50:51] [Server thread/WARN]: 	at com.pixelmonmod.pixelmon.battles.controller.participants.PixelmonWrapper.useAttack(PixelmonWrapper.java:621)
+[18:50:51] [Server thread/WARN]: 	at com.pixelmonmod.pixelmon.battles.controller.participants.PixelmonWrapper.useAttack(PixelmonWrapper.java:550)
+[18:50:51] [Server thread/WARN]: 	at com.pixelmonmod.pixelmon.battles.controller.participants.PixelmonWrapper.takeTurn(PixelmonWrapper.java:1108)
+[18:50:51] [Server thread/WARN]: 	at com.pixelmonmod.pixelmon.battles.controller.BattleControllerBase.takeTurn(BattleControllerBase.java:850)
+[18:50:51] [Server thread/WARN]: 	at com.pixelmonmod.pixelmon.battles.controller.BattleControllerBase.update(BattleControllerBase.java:291)
+[18:50:51] [Server thread/WARN]: 	at com.pixelmonmod.pixelmon.battles.BattleRegistry.updateBattles(BattleRegistry.java:181)
+[18:50:51] [Server thread/WARN]: 	at com.pixelmonmod.pixelmon.battles.BattleTickHandler.tickStart(BattleTickHandler.java:17)
+[18:50:51] [Server thread/WARN]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_51_BattleTickHandler_tickStart_WorldTickEvent.invoke(.dynamic)
+[18:50:51] [Server thread/WARN]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+[18:50:51] [Server thread/WARN]: 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:186)
+[18:50:51] [Server thread/WARN]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onPostWorldTick(FMLCommonHandler.java:275)
+[18:50:51] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:917)
+[18:50:51] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:449)
+[18:50:51] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:801)
+[18:50:51] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:648)
+[18:50:51] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[18:51:37] [Server thread/INFO]: Caught error in battle. Continuing...
+[18:51:37] [Server thread/WARN]: java.lang.NullPointerException
+[18:51:37] [Server thread/WARN]: 	at com.pixelmonmod.pixelmon.entities.npcs.registry.DropItemRegistry.getDropsForPokemon(DropItemRegistry.java:260)
+[18:51:37] [Server thread/WARN]: 	at com.pixelmonmod.pixelmon.entities.pixelmon.drops.DropItemHelper.dropNormalItems(DropItemHelper.java:201)
+[18:51:37] [Server thread/WARN]: 	at com.pixelmonmod.pixelmon.entities.pixelmon.Entity8HoldsItems.func_70645_a(Entity8HoldsItems.java:65)
+[18:51:37] [Server thread/WARN]: 	at com.pixelmonmod.pixelmon.entities.pixelmon.EntityPixelmon.func_70645_a(EntityPixelmon.java:164)
+[18:51:37] [Server thread/WARN]: 	at com.pixelmonmod.pixelmon.entities.pixelmon.Entity5Battle.func_70097_a(Entity5Battle.java:162)
+[18:51:37] [Server thread/WARN]: 	at com.pixelmonmod.pixelmon.battles.controller.participants.PixelmonWrapper.doBattleDamage(PixelmonWrapper.java:2155)
+[18:51:37] [Server thread/WARN]: 	at com.pixelmonmod.pixelmon.battles.attacks.Attack.executeAttackEffects(Attack.java:541)
+[18:51:37] [Server thread/WARN]: 	at com.pixelmonmod.pixelmon.battles.attacks.Attack.use(Attack.java:448)
+[18:51:37] [Server thread/WARN]: 	at com.pixelmonmod.pixelmon.battles.controller.participants.PixelmonWrapper.useAttack(PixelmonWrapper.java:621)
+[18:51:37] [Server thread/WARN]: 	at com.pixelmonmod.pixelmon.battles.controller.participants.PixelmonWrapper.useAttack(PixelmonWrapper.java:550)
+[18:51:37] [Server thread/WARN]: 	at com.pixelmonmod.pixelmon.battles.controller.participants.PixelmonWrapper.takeTurn(PixelmonWrapper.java:1108)
+[18:51:37] [Server thread/WARN]: 	at com.pixelmonmod.pixelmon.battles.controller.BattleControllerBase.takeTurn(BattleControllerBase.java:850)
+[18:51:37] [Server thread/WARN]: 	at com.pixelmonmod.pixelmon.battles.controller.BattleControllerBase.update(BattleControllerBase.java:291)
+[18:51:37] [Server thread/WARN]: 	at com.pixelmonmod.pixelmon.battles.BattleRegistry.updateBattles(BattleRegistry.java:181)
+[18:51:37] [Server thread/WARN]: 	at com.pixelmonmod.pixelmon.battles.BattleTickHandler.tickStart(BattleTickHandler.java:17)
+[18:51:37] [Server thread/WARN]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_51_BattleTickHandler_tickStart_WorldTickEvent.invoke(.dynamic)
+[18:51:37] [Server thread/WARN]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+[18:51:37] [Server thread/WARN]: 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:186)
+[18:51:37] [Server thread/WARN]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onPostWorldTick(FMLCommonHandler.java:275)
+[18:51:37] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:917)
+[18:51:37] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:449)
+[18:51:37] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:801)
+[18:51:37] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:648)
+[18:51:37] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[18:51:47] [Server thread/INFO]: Reversetron issued server command: /pokespawn charmander
+[18:51:47] [Server thread/INFO]: [Reversetron: Reversetron successfully spawned Charmander.]
+[18:51:52] [Server thread/INFO]: Caught error in battle. Continuing...
+[18:51:52] [Server thread/WARN]: java.lang.NullPointerException
+[18:51:52] [Server thread/WARN]: 	at com.pixelmonmod.pixelmon.entities.npcs.registry.DropItemRegistry.getDropsForPokemon(DropItemRegistry.java:260)
+[18:51:52] [Server thread/WARN]: 	at com.pixelmonmod.pixelmon.entities.pixelmon.drops.DropItemHelper.dropNormalItems(DropItemHelper.java:201)
+[18:51:52] [Server thread/WARN]: 	at com.pixelmonmod.pixelmon.entities.pixelmon.Entity8HoldsItems.func_70645_a(Entity8HoldsItems.java:65)
+[18:51:52] [Server thread/WARN]: 	at com.pixelmonmod.pixelmon.entities.pixelmon.EntityPixelmon.func_70645_a(EntityPixelmon.java:164)
+[18:51:52] [Server thread/WARN]: 	at com.pixelmonmod.pixelmon.entities.pixelmon.Entity5Battle.func_70097_a(Entity5Battle.java:162)
+[18:51:52] [Server thread/WARN]: 	at com.pixelmonmod.pixelmon.battles.controller.participants.PixelmonWrapper.doBattleDamage(PixelmonWrapper.java:2155)
+[18:51:52] [Server thread/WARN]: 	at com.pixelmonmod.pixelmon.battles.attacks.Attack.executeAttackEffects(Attack.java:541)
+[18:51:52] [Server thread/WARN]: 	at com.pixelmonmod.pixelmon.battles.attacks.Attack.use(Attack.java:448)
+[18:51:52] [Server thread/WARN]: 	at com.pixelmonmod.pixelmon.battles.controller.participants.PixelmonWrapper.useAttack(PixelmonWrapper.java:621)
+[18:51:52] [Server thread/WARN]: 	at com.pixelmonmod.pixelmon.battles.controller.participants.PixelmonWrapper.useAttack(PixelmonWrapper.java:550)
+[18:51:52] [Server thread/WARN]: 	at com.pixelmonmod.pixelmon.battles.controller.participants.PixelmonWrapper.takeTurn(PixelmonWrapper.java:1108)
+[18:51:52] [Server thread/WARN]: 	at com.pixelmonmod.pixelmon.battles.controller.BattleControllerBase.takeTurn(BattleControllerBase.java:850)
+[18:51:52] [Server thread/WARN]: 	at com.pixelmonmod.pixelmon.battles.controller.BattleControllerBase.update(BattleControllerBase.java:291)
+[18:51:52] [Server thread/WARN]: 	at com.pixelmonmod.pixelmon.battles.BattleRegistry.updateBattles(BattleRegistry.java:181)
+[18:51:52] [Server thread/WARN]: 	at com.pixelmonmod.pixelmon.battles.BattleTickHandler.tickStart(BattleTickHandler.java:17)
+[18:51:52] [Server thread/WARN]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_51_BattleTickHandler_tickStart_WorldTickEvent.invoke(.dynamic)
+[18:51:52] [Server thread/WARN]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+[18:51:52] [Server thread/WARN]: 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:186)
+[18:51:52] [Server thread/WARN]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onPostWorldTick(FMLCommonHandler.java:275)
+[18:51:52] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:917)
+[18:51:52] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:449)
+[18:51:52] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:801)
+[18:51:52] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:648)
+[18:51:52] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
